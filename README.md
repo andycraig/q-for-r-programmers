@@ -116,7 +116,7 @@ As in R, we can index into arrays with `[]`:
 
 ```q
 a[2]
-/ returns 3, as q arrays are 0-indexed
+/ returns 3 in q, as q arrays are 0-indexed
 ```
 
 There's a symmetry in q between function arguments and array indexing:
